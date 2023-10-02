@@ -7,7 +7,7 @@ He creado este repositorio personal con la finalidad de exponer mis proyectos y 
 * [Intereses](#intereses)
 
 ## Informacion personal
-- Estudiante de Ingenieria en Ciencias Computacionales en ESPOL
+- Estudiante de Ingenieria en Ciencias Computacionales en "ESPOL"
 - Contacto: disantan@espol.edu.ec
 ## Proyectos
 
