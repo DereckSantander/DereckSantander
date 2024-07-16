@@ -9,7 +9,7 @@ He creado este repositorio personal con la finalidad de exponer mis proyectos y 
 ## Informacion personal
 - 20 años de edad
 - 🇪🇨
-- Tengo conocimientos en lenguajes de programación como Java, Python, SQL, C, R
+- Tengo conocimientos en lenguajes de programación como Java, Python, SQL, C, R, Flutter, Django
 - Estudiante de Ingenieria en Ciencias Computacionales en "ESPOL" 🐢
 - Conocimientos básicos de electricidad y electrónica, así como la manipulación de equipos y herramientas
 - Contacto: disantan@espol.edu.ec
