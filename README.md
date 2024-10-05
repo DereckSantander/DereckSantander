@@ -7,7 +7,7 @@ He creado este repositorio personal con la finalidad de exponer mis proyectos y 
 * [Intereses](#intereses)
 
 ## Informacion personal
-- 20 años de edad
+- 21 años de edad
 - 🇪🇨
 - Tengo conocimientos en lenguajes de programación como Java, Python, SQL, C, R, Flutter, Django
 - Estudiante de Ingenieria en Ciencias Computacionales en "ESPOL" 🐢
