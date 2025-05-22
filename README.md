@@ -9,7 +9,7 @@ He creado este repositorio personal con la finalidad de exponer mis proyectos y 
 ## Informacion personal
 - 21 años de edad
 - 🇪🇨
-- Tengo conocimientos en lenguajes de programación como Java, Python, SQL, C, R, Dart, Ruby y PHP
+- Tengo conocimientos en lenguajes de programación como Java, Javascript, Python, SQL, C, R, Dart, Ruby, PHP y React
 - Familiarizado con frameworks como Flutter y DRF 
 - Estudiante de Ingenieria en Ciencias Computacionales en "ESPOL" 🐢
 - Conocimientos básicos de electricidad y electrónica, así como la manipulación de equipos y herramientas
