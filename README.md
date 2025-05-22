@@ -10,7 +10,8 @@ He creado este repositorio personal con la finalidad de exponer mis proyectos y 
 - 21 años de edad
 - 🇪🇨
 - Tengo conocimientos en lenguajes de programación como Java, Javascript, Python, SQL, C, R, Dart, Ruby, PHP y React
-- Familiarizado con frameworks como Flutter y DRF 
+- Familiarizado con frameworks como Flutter y DRF
+- Afinidad en el desarrollo de aplicaciones móviles 
 - Estudiante de Ingenieria en Ciencias Computacionales en "ESPOL" 🐢
 - Conocimientos básicos de electricidad y electrónica, así como la manipulación de equipos y herramientas
 - Contacto: disantan@espol.edu.ec
