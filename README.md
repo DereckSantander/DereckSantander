@@ -45,7 +45,6 @@ Me especializo en el **desarrollo de aplicaciones móviles** y tengo una sólida
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 </div>
 
@@ -53,6 +52,7 @@ Me especializo en el **desarrollo de aplicaciones móviles** y tengo una sólida
 
 <div align="center">
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 
@@ -114,7 +114,7 @@ Sistema integral de gestión de banco de sangre con base de datos robusta.
 <div align="center">
 
 | 🖥️ Hardware & PC Building | 🚀 Nuevas Tecnologías | 🎮 eSports | ⚽ Deportes |
-|:---:|:---:|:---:|:---:|
+| :---: | :---: | :---: | :---: |
 | Me apasiona el ensamblaje de computadoras y componentes | Siempre al día con las últimas innovaciones del mercado | Fanático del mundo de los deportes electrónicos | Fútbol ⚽, Tenis de Mesa 🏓 y Ajedrez ♟️ |
 
 </div>
