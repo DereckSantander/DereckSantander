@@ -6,7 +6,7 @@
 
 [![Email](https://img.shields.io/badge/Email-disantan%40espol.edu.ec-red?style=for-the-badge&logo=gmail)](mailto:disantan@espol.edu.ec)
 [![Location](https://img.shields.io/badge/Ubicación-Ecuador%20🇪🇨-blue?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Ecuador)
-[![Age](https://img.shields.io/badge/Edad-21%20años-green?style=for-the-badge&logo=calendar)](https://github.com/DereckSantander)
+[![Age](https://img.shields.io/badge/Edad-23%20años-green?style=for-the-badge&logo=calendar)](https://github.com/DereckSantander)
 
 </div>
 
@@ -24,7 +24,7 @@
 
 ## 👤 Sobre Mí
 
-Bienvenido a mi repositorio personal. Soy un apasionado estudiante de **Ingeniería en Ciencias Computacionales** en la **ESPOL** 🐢, con 22 años de edad y ubicado en **Ecuador** 🇪🇨.
+Bienvenido a mi repositorio personal. Soy un apasionado estudiante de **Ingeniería en Ciencias Computacionales** en la **ESPOL** 🐢, con 23 años de edad y ubicado en **Ecuador** 🇪🇨.
 
 Me especializo en el **desarrollo de aplicaciones móviles** y tengo una sólida formación en múltiples tecnologías de desarrollo de software. Además de mi formación en programación, poseo conocimientos básicos de **electricidad y electrónica**, así como experiencia en la manipulación de equipos y herramientas.
 
