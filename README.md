@@ -133,7 +133,7 @@ Sistema integral de gestión de banco de sangre con base de datos robusta.
 
 ¿Tienes algún proyecto interesante o quieres colaborar? ¡No dudes en contactarme!
 
-### 📧 [disantan@espol.edu.ec](mailto:disantan@espol.edu.ec)
+### 📧 [derecksantander13@gmail.com](mailto:derecksantander13@gmail.com)
 
 ---
 
