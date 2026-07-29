@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Dereck Santander
 
-### 💻 Desarrollador de Software | 🎓 Estudiante de Ingeniería en Ciencias Computacionales
+### 💻 Desarrollador de Software | 🎓 Ingeniero en Ciencias Computacionales
 
 [![Email](https://img.shields.io/badge/Email-disantan%40espol.edu.ec-red?style=for-the-badge&logo=gmail)](mailto:disantan@espol.edu.ec)
 [![Location](https://img.shields.io/badge/Ubicación-Ecuador%20🇪🇨-blue?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Ecuador)
@@ -24,7 +24,7 @@
 
 ## 👤 Sobre Mí
 
-Bienvenido a mi repositorio personal. Soy un apasionado estudiante de **Ingeniería en Ciencias Computacionales** en la **ESPOL** 🐢, con 21 años de edad y ubicado en **Ecuador** 🇪🇨.
+Bienvenido a mi repositorio personal. Soy un apasionado estudiante de **Ingeniería en Ciencias Computacionales** en la **ESPOL** 🐢, con 22 años de edad y ubicado en **Ecuador** 🇪🇨.
 
 Me especializo en el **desarrollo de aplicaciones móviles** y tengo una sólida formación en múltiples tecnologías de desarrollo de software. Además de mi formación en programación, poseo conocimientos básicos de **electricidad y electrónica**, así como experiencia en la manipulación de equipos y herramientas.
 
@@ -68,7 +68,13 @@ Me especializo en el **desarrollo de aplicaciones móviles** y tengo una sólida
 
 ---
 
-## 🚀 Proyectos Destacados
+## Proyectos que he trabajado
+- Microservicios para un core bancario en Spring Boot
+- Plataformas para monitoreo de actuadores mediante LoraWan
+- Aplicaciones móviles para facilitar toma de datos en campos
+- Dashboards interactivos para análisis de datos
+
+## 🚀 Proyectos Académicos
 
 <table>
 <tr>
