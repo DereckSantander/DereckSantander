@@ -4,7 +4,7 @@
 
 ### 💻 Desarrollador de Software | 🎓 Ingeniero en Ciencias Computacionales
 
-[![Email](https://img.shields.io/badge/Email-disantan%40espol.edu.ec-red?style=for-the-badge&logo=gmail)](mailto:disantan@espol.edu.ec)
+[![Email](https://img.shields.io/badge/Email-derecksantander13%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:derecksantander13@gmail.com)
 [![Location](https://img.shields.io/badge/Ubicación-Ecuador%20🇪🇨-blue?style=for-the-badge&logo=google-maps)](https://www.google.com/maps/place/Ecuador)
 [![Age](https://img.shields.io/badge/Edad-23%20años-green?style=for-the-badge&logo=calendar)](https://github.com/DereckSantander)
 
